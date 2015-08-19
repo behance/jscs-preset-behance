@@ -1,6 +1,6 @@
 {
   "name": "jscs-preset-behance",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "JSCS preset for Behance",
   "main": "./jscs.json",
   "scripts": {
