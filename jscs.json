@@ -4,6 +4,7 @@
   "disallowImplicitTypeConversion": [
     "string"
   ],
+  "disallowIdenticalDestructuringNames": true,
   "disallowKeywords": [
     "with"
   ],
@@ -28,6 +29,7 @@
     "++",
     "--"
   ],
+  "disallowSpaceBeforeSemicolon": true,
   "disallowSpacesInFunctionDeclaration": {
     "beforeOpeningRoundBrace": true
   },
@@ -70,6 +72,7 @@
     "=",
     ","
   ],
+  "requireSpaceAfterComma": true,
   "requireSpaceAfterKeywords": [
     "if",
     "else",
@@ -100,6 +103,9 @@
   },
   "requireSpacesInFunctionExpression": {
     "beforeOpeningCurlyBrace": true
+  },
+  "requireTrailingComma": {
+    "ignoreSingleLine": true
   },
   "validateIndentation": 2,
   "validateLineBreaks": "LF"
