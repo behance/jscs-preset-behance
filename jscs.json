@@ -39,6 +39,7 @@
   "disallowSpacesInsideArrayBrackets": true,
   "disallowSpacesInsideParentheses": true,
   "disallowTrailingWhitespace": true,
+  "disallowVar": true,
   "requireBlocksOnNewline": 1,
   "requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties",
   "requireCapitalizedConstructors": true,
