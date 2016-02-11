@@ -38,7 +38,6 @@
   },
   "disallowSpacesInsideArrayBrackets": true,
   "disallowSpacesInsideParentheses": true,
-  "disallowTrailingComma": true,
   "disallowTrailingWhitespace": true,
   "requireBlocksOnNewline": 1,
   "requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties",
